@@ -1,0 +1,13 @@
+,,,,exact_match,exact_match,llm_cost (ct),llm_cost (ct)
+model,,,,gpt-4o-mini-2024-07-18,gpt-4o-2024-11-20,gpt-4o-mini-2024-07-18,gpt-4o-2024-11-20
+retriever,reranker,zoom,num_context,,,,
+BM25Retriever,NoReranker,NoZoom,100,0.45,0.4,1.43,23.74
+BM25Retriever,NoReranker,NoZoom,3,0.32,0.3,0.08,1.25
+BM25Retriever,NoReranker,RowBasedZoom,3,0.41,0.42,0.67,10.71
+BM25Retriever,QueryBasedReranker,NoZoom,3,0.35,0.33,0.37,6.65
+NoRetriever,NoReranker,NoZoom,3,0.09,0.16,0.0,0.02
+OracleRetriever,NoReranker,NoZoom,3,0.54,0.54,0.03,0.55
+SBERTRetriever,NoReranker,NoZoom,100,0.46,0.39,1.02,17.23
+SBERTRetriever,NoReranker,NoZoom,3,0.35,0.34,0.04,0.71
+SBERTRetriever,NoReranker,RowBasedZoom,3,0.44,0.45,0.46,7.84
+SBERTRetriever,QueryBasedReranker,NoZoom,3,0.39,0.39,0.32,5.55

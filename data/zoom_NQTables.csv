@@ -1,0 +1,6 @@
+template,next_focus_sizes,Accuracy@1,Accuracy@3,Accuracy@10,Accuracy@100,llm_cost (ct)
+,,0.34,0.53,0.72,0.93,0.0
+,-1rows-> 10 -5rows-> 3,0.37,0.69,0.8,0.93,0.41
+,-1rows-> 3,0.37,0.68,0.79,0.93,0.34
+,-2rows-> 10 -10rows-> 3,0.36,0.68,0.79,0.93,0.51
+,-2rows-> 3,0.37,0.66,0.76,0.93,0.41

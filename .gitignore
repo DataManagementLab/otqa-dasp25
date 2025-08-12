@@ -1,0 +1,13 @@
+/data
+/outputs
+/multirun
+!/data/tqa_AITQA.csv
+!/data/tqa_NQTables.csv
+!/data/retrieval_AITQA.csv
+!/data/retrieval_NQTables.csv
+!/data/zoom_AITQA.csv
+!/data/zoom_NQTables.csv
+!/data/template_AITQA.csv
+!/data/template_NQTables.csv
+!/data/linear_AITQA.csv
+!/data/linear_NQTables.csv

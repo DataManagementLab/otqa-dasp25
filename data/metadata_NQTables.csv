@@ -1,0 +1,3 @@
+retriever,reranker,zoom,linearization,metadata,Accuracy@1,Accuracy@3,Accuracy@10,Accuracy@100,llm_cost (ct)
+BM25Retriever,NoReranker,NoZoom,Linearization.CSV,not-separate,0.2,0.32,0.43,0.68,0.0
+BM25Retriever,NoReranker,NoZoom,Linearization.CSV,separate,0.26,0.45,0.63,0.84,0.0
